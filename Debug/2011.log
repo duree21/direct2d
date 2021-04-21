@@ -1,0 +1,51 @@
+﻿  stdafx.cpp
+  Boss.cpp
+  Bullet.cpp
+  Judge.cpp
+  Mself.cpp
+  Mspecial.cpp
+  Player.cpp
+e:\2011direct2d\popol\18_mouse_enter_the_gungeon\objects\player.cpp(366): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Table.cpp
+  Warp.cpp
+  Weapon.cpp
+  Program.cpp
+  Animation.cpp
+  Clip.cpp
+e:\2011direct2d\popol\18_mouse_enter_the_gungeon\renders\clip.cpp(78): warning C4927: 변환이 잘못되었습니다. 사용자 정의 변환이 암시적으로 두 번 이상 적용되었습니다.
+  e:\2011direct2d\popol\18_mouse_enter_the_gungeon\renders\clip.cpp(78): note: 'D3DXVECTOR2::D3DXVECTOR2(const FLOAT *)' 생성자를 호출하는 동안
+  e:\2011direct2d\_directx2d\include\d3dx10math.inl(82): note: 'D3DXVECTOR2::D3DXVECTOR2' 선언을 참조하십시오.
+  Rect.cpp
+  Shader.cpp
+  Sprite.cpp
+e:\2011direct2d\popol\18_mouse_enter_the_gungeon\renders\sprite.cpp(206): warning C4101: 'yScale' :참조되지 않은 지역 변수입니다.
+e:\2011direct2d\popol\18_mouse_enter_the_gungeon\renders\sprite.cpp(206): warning C4101: 'xScale' :참조되지 않은 지역 변수입니다.
+  Stage1.cpp
+e:\2011direct2d\popol\18_mouse_enter_the_gungeon\scenes\stage1.cpp(391): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\2011direct2d\popol\18_mouse_enter_the_gungeon\scenes\stage1.cpp(392): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\2011direct2d\popol\18_mouse_enter_the_gungeon\scenes\stage1.cpp(448): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\2011direct2d\popol\18_mouse_enter_the_gungeon\scenes\stage1.cpp(449): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Start.cpp
+  UI.cpp
+  CMouse.cpp
+  Device.cpp
+e:\2011direct2d\popol\18_mouse_enter_the_gungeon\systems\device.cpp(164): warning C4244: '=': 'UINT'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\2011direct2d\popol\18_mouse_enter_the_gungeon\systems\device.cpp(165): warning C4244: '=': 'UINT'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  DirectWrite.cpp
+  Keyboard.cpp
+  Time.cpp
+  BinaryFile.cpp
+  Math.cpp
+  Path.cpp
+  String.cpp
+  Xml.cpp
+  Camera.cpp
+  Following.cpp
+  Freedom.cpp
+  코드를 생성하고 있습니다...
+  Jar.cpp
+  Mnormal.cpp
+  코드를 생성하고 있습니다...
+  2011.vcxproj -> E:\2011direct2d\Popol\18_Mouse_Enter_The_Gungeon\Debug\2011.exe
